@@ -8,12 +8,12 @@
     {
       "title" : "Black Widow",
       "uuid" : "efgh",
-      "rating" : "PG"
+      "rating" : "12A"
     },
     {
       "title" : "Raya and the Last Dragon",
       "uuid" : "ijkl",
-      "rating" : "12A"
+      "rating" : "PG"
     }
   ]
 }
