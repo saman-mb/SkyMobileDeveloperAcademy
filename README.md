@@ -30,7 +30,7 @@ We would like you to build movie video player app that presents movie informatio
 
 ## User Story
 
-### AC1
+#### AC1
 - Given I launch the cat facts app
 - When the facts data is loading
 - Then I should see an in page loading indicator
@@ -39,7 +39,7 @@ We would like you to build movie video player app that presents movie informatio
 
 **Note:** *each item in the list should show the fact as well as the number of upvotes*
 
-### AC2
+#### AC2
 - Given I launch the cat facts app
 - When the facts data is loading
 - Then I should see an in page loading indicator
@@ -48,7 +48,7 @@ We would like you to build movie video player app that presents movie informatio
 
 **Message text:** *"Something went wrong. Please check your network connection and try again."*
 
-### AC3
+#### AC3
 - Given I am currently looking at the cat facts list
 - When I tap on a fact
 - Then a new page should be presented to me modally
@@ -65,7 +65,7 @@ We would like you to build movie video player app that presents movie informatio
 
 <div style="page-break-after: always;"></div>
 
-### AC4
+#### AC4
 - Given I am currently looking at the cat facts list
 - When I tap on a fact
 - Then a new page should be presented to me modally
