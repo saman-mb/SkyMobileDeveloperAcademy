@@ -7,7 +7,7 @@
 
 We would like you to build movie video player app that presents movie information from an API in a list format and allows the user to select a fact to present more details to the user. The first screen will show a list of facts to the user. When selecting a fact a second screen is presented to the user showing more details about that fact. We also want to see some indication when the data is loading as well as messaging to handling any potential errors that may arise.
 
-### Requirements 
+### Requirements
 
 - The app should be written in Swift. You can use the latest tooling / swift version if you like, or something a little older it's not all that important.
 
