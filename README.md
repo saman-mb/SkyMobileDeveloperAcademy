@@ -16,7 +16,7 @@ Sky would like you to build movie trailers app that presents information about m
 - On both screens the user should see a loading spinner when the screen is loading the data
 - If the data fails to load for some reason the user should see an error message
 
-#### Bonus Requirent!
+#### Bonus Requirement! 😄
 
 Allow users to play the trailer for a movie from the programme details page.
 - The user should see a play icon on top of the programmes image
