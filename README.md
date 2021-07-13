@@ -96,6 +96,7 @@ Play Icon Image: [https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources
 - And I should see a standard system alert containing a message explaining that something went wrong
 
 **Alert title text:** *"Oops, we could not load that movie."*
+
 **Alert body text:** *Please check your network connection and try again.*
 
 #### AC5 Bonus!
@@ -106,4 +107,5 @@ Play Icon Image: [https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources
 - Then I should see the movie trailer video playing full screen
 
 **Note:** *The play icon image file is listed in the resources section above in this doc.*
+
 **Note:** *Mobile platforms offer a native video player which can utilise the playback urls provided in the API response, please look at the docs linked in the resources above for more info on this.*
