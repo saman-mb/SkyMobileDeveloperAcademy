@@ -34,6 +34,13 @@ Allow users to play the trailer for a movie from the programme details page.
 
 ### Resources
 
+Android Developer Ref: https://developer.android.com/docs
+Build your first app: https://developer.android.com/training/basics/firstapp
+Android basics in Kotlin: https://developer.android.com/courses/android-basics-kotlin/course
+Kotlin Docs: https://kotlinlang.org/docs/home.html
+Introduction to Android Activities: https://developer.android.com/guide/components/activities/intro-activities
+Android Media Player Docs: https://developer.android.com/guide/topics/media/mediaplayer
+
 ## User Story
 
 #### AC1
@@ -82,7 +89,7 @@ Allow users to play the trailer for a movie from the programme details page.
 - Given I am currently looking at a movie details page
 - When the movie has a trailer available
 - Then I should see a play icon displayed over the top of the image
-- When I tape the play icon
+- When I tap the play icon
 - Then I should see the movie trailer video playing full screen
 
 **Note:** *The play icon image file is listed in the resources section above in this doc.*
