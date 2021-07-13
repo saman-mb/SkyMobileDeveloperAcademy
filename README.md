@@ -32,7 +32,11 @@ Allow users to play the trailer for a movie from the programme details page.
 
 `https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies/{uuid}.json`
 
-### Resources
+### Resources 
+
+Play Icon Image: https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg
+
+### Docs
 
 Android Developer Ref: https://developer.android.com/docs
 Build your first app: https://developer.android.com/training/basics/firstapp
@@ -40,6 +44,7 @@ Android basics in Kotlin: https://developer.android.com/courses/android-basics-k
 Kotlin Docs: https://kotlinlang.org/docs/home.html
 Introduction to Android Activities: https://developer.android.com/guide/components/activities/intro-activities
 Android Media Player Docs: https://developer.android.com/guide/topics/media/mediaplayer
+
 
 ## User Story
 
