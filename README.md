@@ -34,7 +34,7 @@ Allow users to play the trailer for a movie from the programme details page.
 
 ### Resources 
 
-Play Icon Image: https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg
+Play Icon Image: [https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg](https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg)
 
 ### iOS Docs
 
