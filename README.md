@@ -36,7 +36,15 @@ Allow users to play the trailer for a movie from the programme details page.
 
 Play Icon Image: https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg
 
-### Docs
+### iOS Docs
+
+- iOS Docs: [https://developer.apple.com/documentation/technologies](https://developer.apple.com/documentation/technologies)
+- Swift Docs: [https://developer.apple.com/documentation/swift](https://developer.apple.com/documentation/swift)
+- Swift UI: [https://developer.apple.com/xcode/swiftui/](https://developer.apple.com/xcode/swiftui/)
+- Collection View Controller: [https://developer.apple.com/documentation/uikit/uicollectionviewcontroller](https://developer.apple.com/documentation/uikit/uicollectionviewcontroller)
+- iOS Media Player: [https://developer.apple.com/documentation/avfoundation/avplayer](https://developer.apple.com/documentation/avfoundation/avplayer)
+
+### Android Docs
 
 - Android Developer Ref: [https://developer.android.com/docs](https://developer.android.com/docs)
 - Build your first app: [https://developer.android.com/training/basics/firstapp](https://developer.android.com/training/basics/firstapp)
