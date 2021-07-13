@@ -38,12 +38,12 @@ Play Icon Image: https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/
 
 ### Docs
 
-- Android Developer Ref: https://developer.android.com/docs
-- Build your first app: https://developer.android.com/training/basics/firstapp
-- Android basics in Kotlin: https://developer.android.com/courses/android-basics-kotlin/course
-- Kotlin Docs: https://kotlinlang.org/docs/home.html
-- Introduction to Android Activities: https://developer.android.com/guide/components/activities/intro-activities
-- Android Media Player Docs: https://developer.android.com/guide/topics/media/mediaplayer
+- Android Developer Ref: [https://developer.android.com/docs](https://developer.android.com/docs)
+- Build your first app: [https://developer.android.com/training/basics/firstapp](https://developer.android.com/training/basics/firstapp)
+- Android basics in Kotlin: [https://developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course)
+- Kotlin Docs: [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
+- Introduction to Android Activities: [https://developer.android.com/guide/components/activities/intro-activities](https://developer.android.com/guide/components/activities/intro-activities)
+- Android Media Player Docs: [https://developer.android.com/guide/topics/media/mediaplayer](https://developer.android.com/guide/topics/media/mediaplayer)
 
 
 ## User Story
