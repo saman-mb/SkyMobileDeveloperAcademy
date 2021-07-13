@@ -24,9 +24,13 @@ Allow users to play the trailer for a movie from the programme details page.
 
 ### API Details
 
-[Movies list API:](https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies.json)
+**Movies list API:**
 
-[Movie detials API:](https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies/{uuid}.json)
+`https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies.json`
+
+**Movie detials API:**
+
+`https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies/{uuid}.json`
 
 ### Resources 
 
