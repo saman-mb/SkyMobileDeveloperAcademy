@@ -3,17 +3,20 @@
     {
       "title" : "Once Upon A Time...In Hollywood",
       "uuid" : "abcd",
-      "rating" : "18"
+      "rating" : "18",
+      "image" : "https://www.davelandweb.com/blog/ouatih/Once-Upon-A-Time-in-Hollywood-poster.jpg"
     },
     {
       "title" : "Black Widow",
       "uuid" : "efgh",
-      "rating" : "12A"
+      "rating" : "12A",
+      "image" : "https://img.cinemablend.com/quill/4/3/7/6/7/4/4376746516dff7704ceb2bccd468751cae785100.jpg"
     },
     {
       "title" : "Raya and the Last Dragon",
       "uuid" : "ijkl",
-      "rating" : "PG"
+      "rating" : "PG",
+      "image" : "https://amc-theatres-res.cloudinary.com/v1621425732/amc-cdn/production/2/movies/43000/43029/Poster/p_800x1200_AMC_RayaAndTheLastDragon_05182021.jpg"
     }
   ]
 }
