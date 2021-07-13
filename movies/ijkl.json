@@ -2,5 +2,7 @@
   "title" : "Raya and the Last Dragon",
   "uuid" : "ijkl",
   "synopsis" : "Raya, a warrior, sets out to track down Sisu, a dragon, who transferred all her powers into a magical gem which is now scattered all over the kingdom of Kumandra, dividing its people.",
-  "rating": "PG"
+  "rating": "PG",
+  "image" : "https://amc-theatres-res.cloudinary.com/v1621425732/amc-cdn/production/2/movies/43000/43029/Poster/p_800x1200_AMC_RayaAndTheLastDragon_05182021.jpg",
+  "trailer" : "https://movietrailers.apple.com/movies/disney/raya-and-the-last-dragon/raya-and-the-last-dragon-trailer-2_h720p.mov"
 }
