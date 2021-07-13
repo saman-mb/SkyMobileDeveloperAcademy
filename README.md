@@ -20,7 +20,7 @@ Sky would like you to build movie trailers app that presents information about m
 
 Allow users to play the trailer for a movie from the programme details page.
 - The user should see a play icon on top of the programmes image
-- Tapping the play icon should begin playing the movies trailer
+- Tapping the play icon should begin playing the movies trailer if there is an available trailer available
 
 ### API Details
 
