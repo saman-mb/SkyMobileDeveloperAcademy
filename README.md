@@ -4,6 +4,10 @@
 ## Sky Go Training Project 
 ### App Brief
 * Build an OTT VOD browsing and steaming app that uses native DRM protection. 
+* Native Android and iOS App 
+* Share code via a GraphQL service intially running on local host but later can be deployed somewhere
+* Target architecure MVVM or MVP 
+* Potentially build UI using latest APIs (Swift UI / Jetpack Compose)
 
 ### Stories
 * App Startup / Splash Screen 
