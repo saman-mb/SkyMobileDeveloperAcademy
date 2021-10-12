@@ -1,111 +1,93 @@
+<img src="https://user-images.githubusercontent.com/52349/136939032-ae5ad45b-fbd0-4f8f-8631-50eba7c85743.png" alt="drawing" width="200"/>
 
-# Movie Trailers Mobile App Exercise
+# Mobile Academy 
+## Sky Go Training Project 
+### App Brief
+* Build an OTT VOD browsing and steaming app that uses native DRM protection. 
 
-![](https://www.latestfreestuff.co.uk/wp-content/uploads/2017/04/Free-Sky-Movie-Worth-£13.99.png)
+### Stories
+* App Startup / Splash Screen 
+* Home Page  
+* Show Page 
+* Login Page
+* Play VOD
+* Settings 
 
-## Brief
+### Tech Tasks
+* Analytics / Logging 
+* CI 
+* Unit Testing 
+* Testing 
 
-Sky would like you to build movie trailers app that presents information about movies from an API in a list and also allows users to select more details about a particular movie!
+### Splash Screen / App Startup 
 
-### Requirements
+Build an animated splash screen page which stays displayed until the app has finished carrying out the necessary startup processes before transitioning to the home page. 
 
-- User interfaces for two distinct screens should be implemented
-- The first screen will show a list of movies to the user
-- The second screen will show the details about a particular movie to the user
-- Tapping a movie from the list should present that movies details to the user
-- On both screens the user should see a loading spinner when the screen is loading the data
-- If the data fails to load for some reason the user should see an error message
+* *On app launch* - show splash 
+	* hit init.sky.com - persist country code / server time offset 
+	* hit config.sky.com  - persist config 
+* *On app foreground* - show homepage 
+	* hit init.sky.com - persist country code / server time offset 
+	* hit config.sky.com  - persist config  
+* *On error* - show startup error 
+* *On success* - load the home page 
+* Handle application life cycle events 
 
-#### Bonus Requirement! 😄
+### Home Page
 
-Allow users to play the trailer for a movie from the programme details page.
-- The user should see a play icon on top of the programmes image
-- Tapping the play icon should begin playing the movies trailer if there is an available trailer available
+Build the page that presents VOD content to the user to browse after the app finishes loading. 
 
-### API Details
+* Hit QMS or a hosted json file defining some rails with different render hints 
+* For each rail make a w2w call 
+* Loading spinner 
+* Show the content 
+* Build the UI components and plug it all together 
 
-**Movies list API:**
+### Show Page 
 
-`https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies.json`
+Build a page which presents metadata for single and episodic programmes to the user in a modal context. 
 
-**Movie detials API:**
+* present the show page with loading spinner 
+* make a W2W call 
+* render the page meta data 
 
-`https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies/{uuid}.json`
+### Login Page
+* Rango integration 
+* Native UI 
+* Persist the oath token to disk securely 
 
-### Resources 
+### Play VOD 
 
-Play Icon Image: [https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg](https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg)
+Build a video player which is capable of playing both unencrypted and encrypted Sky VOD assets using Native DRM. (FairPlay, Widevine)
 
-### iOS Docs
+* If user isn’t logged in show login 
+* Initial version can use unencrypted test stream
+* Final version can use OVP integration and native DRM (FairPlay, iOS / WideVine, Android) 
+* Build the video player UI 
+* Local bookmarks 
 
-- iOS Docs: [https://developer.apple.com/documentation/technologies](https://developer.apple.com/documentation/technologies)
-- Swift Docs: [https://developer.apple.com/documentation/swift](https://developer.apple.com/documentation/swift)
-- Swift UI: [https://developer.apple.com/xcode/swiftui/](https://developer.apple.com/xcode/swiftui/)
-- Collection View Controller: [https://developer.apple.com/documentation/uikit/uicollectionviewcontroller](https://developer.apple.com/documentation/uikit/uicollectionviewcontroller)
-- iOS Media Player: [https://developer.apple.com/documentation/avfoundation/avplayer](https://developer.apple.com/documentation/avfoundation/avplayer)
+### Settings 
 
-### Android Docs
+Build a page that displays useful app information and settings to the user in a modal context. 
 
-- Android Developer Ref: [https://developer.android.com/docs](https://developer.android.com/docs)
-- Build your first app: [https://developer.android.com/training/basics/firstapp](https://developer.android.com/training/basics/firstapp)
-- Android basics in Kotlin: [https://developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course)
-- Kotlin Docs: [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
-- Introduction to Android Activities: [https://developer.android.com/guide/components/activities/intro-activities](https://developer.android.com/guide/components/activities/intro-activities)
-- Android Media Player Docs: [https://developer.android.com/guide/topics/media/mediaplayer](https://developer.android.com/guide/topics/media/mediaplayer)
+* Terms and conditions page 
+* Player settings 
+* Persisting users selections across app sessions 
 
+### Analytics 
 
-## User Story
+Build a logging system that allows developers and analysts to debug problems as extract useful information about how customers are using the app. 
 
-#### AC1
-- Given I launch the movie trailers app
-- When the movies data is loading
-- Then I should see a loading spinner
-- When the movies data finishes loading successfully
-- Then I should see a list of movies *(see note for more info)*
+* Build generic modular logger (or use an off the shelf solution to keep things more simple)
+* Log levels 
+* Device log 
+* Third parties: Firebase, Sentry, Adobe (needs some discussion as we want to keep things simple)
+* Crash reporting 
 
-**Note:** *Each item in the list should show the movies title, image, and parental rating*
+### Testing
+* testing pyramid 
+* unit testing 
+* ui testing 
 
-#### AC2
-- Given I launch the movie trailers app
-- When the movies data is loading
-- Then I should see a loading spinner
-- When the movies data fails to load
-- Then I should see an error message explaining that something went wrong *(see note for more info)*
-
-**Message text:** *"Oops, something went wrong. Please check your connection and try again."*
-
-#### AC3
-- Given I am currently looking at the movies list
-- When I tap on a movie
-- Then a new movie details page should be presented to me
-- When the movie details data is loading
-- Then I should see a loading spinner
-- When the movie details data finishes loading successfully
-- Then I should see more details about that movie I selected
-
-**Note:** *The movie detail screen should show the movies title, image, rating, and synopsis*
-
-#### AC4
-- Given I am currently looking at the movies list
-- When I tap on a movie
-- Then a new movie details page should be presented to me
-- When the movie details data is loading
-- Then I should see a loading spinner
-- When the movie details data fails to load
-- Then I should be taken back to the facts list
-- And I should see a standard system alert containing a message explaining that something went wrong
-
-**Alert title text:** *"Oops, we could not load that movie."*
-
-**Alert body text:** *Please check your network connection and try again.*
-
-#### AC5 Bonus!
-- Given I am currently looking at a movie details page
-- When the movie has a trailer available
-- Then I should see a play icon displayed over the top of the image
-- When I tap the play icon
-- Then I should see the movie trailer video playing full screen
-
-**Note:** *The play icon image file is listed in the resources section above in this doc.*
-
-**Note:** *Mobile platforms offer a native video player which can utilise the playback urls provided in the API response, please look at the docs linked in the resources above for more info on this.*
+### CI 
+* Set-up a simple build and test pipeline in Jenkins 
