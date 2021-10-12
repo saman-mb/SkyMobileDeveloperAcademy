@@ -24,11 +24,11 @@
 Build an animated splash screen page which stays displayed until the app has finished carrying out the necessary startup processes before transitioning to the home page. 
 
 * *On app launch* - show splash 
-	* hit init.sky.com - persist country code / server time offset 
-	* hit config.sky.com  - persist config 
+	* hit [init.sky.com](init.sky.com) - persist country code / server time offset 
+	* hit [config.sky.com](config.sky.com) - persist config 
 * *On app foreground* - show homepage 
-	* hit init.sky.com - persist country code / server time offset 
-	* hit config.sky.com  - persist config  
+	* hit [init.sky.com](init.sky.com) - persist country code / server time offset 
+	* hit [config.sky.com](config.sky.com) - persist config 
 * *On error* - show startup error 
 * *On success* - load the home page 
 * Handle application life cycle events 
