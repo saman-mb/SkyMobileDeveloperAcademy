@@ -26,15 +26,17 @@ Allow users to play the trailer for a movie from the programme details page.
 
 **Movies list API:**
 
-`https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies.json`
+
+
+`https://saman-mb.github.io/SkyMobileDeveloperAcademy/assessmentDayTask/movies.json`
 
 **Movie detials API:**
 
-`https://saman-mb.github.io/SkyMobileDeveloperAcademy/movies/{uuid}.json`
+`https://saman-mb.github.io/SkyMobileDeveloperAcademy/assessmentDayTask/movies/{uuid}.json`
 
 ### Resources 
 
-Play Icon Image: [https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg](https://saman-mb.github.io/SkyMobileDeveloperAcademy/resources/play.jpg)
+Play Icon Image: [https://saman-mb.github.io/SkyMobileDeveloperAcademy/assessmentDayTask/resources/play.jpg](https://saman-mb.github.io/SkyMobileDeveloperAcademy/assessmentDayTask/resources/play.jpg)
 
 ### iOS Docs
 
