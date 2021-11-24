@@ -27,6 +27,18 @@
 * Sprint Review Presenation
 * Retrospective
 
+### Project Setup & CI
+* Xcode / Android Studio / VSCode
+* Git / Github 
+* Branching strategy
+* CI/CD - Jenkins
+
+### Testing
+<img src="./images/pyramid.png" width="500"/>
+
+* Unit Testing (XCTest / JUnit)
+* UI testing (XCUITest / Espresso)
+
 ## Epics and Stories 
 ### Splash Screen / App Startup 
 
@@ -96,14 +108,6 @@ Build a logging system that allows developers and analysts to debug problems as 
 * Device log 
 * Third parties: Firebase, Sentry, Adobe (needs some discussion as we want to keep things simple)
 * Crash reporting 
-
-### Testing
-* testing pyramid 
-* unit testing 
-* ui testing 
-
-### CI 
-* Set-up a simple build and test pipeline in Jenkins 
 
 ## Docs 
 
