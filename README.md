@@ -30,7 +30,7 @@
 ## Epics and Stories 
 ### Splash Screen / App Startup 
 
-<img src="./images/splash.jpeg" width="150"/>
+<img src="./images/splash.jpeg" width="200"/>
 
 Build an animated splash screen page which stays displayed until the app has finished carrying out the necessary startup processes before transitioning to the home page. 
 
@@ -40,7 +40,7 @@ Build an animated splash screen page which stays displayed until the app has fin
 
 ### Home Page
 
-<img src="./images/home.jpeg" width="150"/>
+<img src="./images/home.jpeg" width="200"/>
 
 Build a home page UI that presents VOD content to users allowing them to browse content.
 
@@ -50,7 +50,7 @@ Build a home page UI that presents VOD content to users allowing them to browse 
 
 ### Show Page 
 
-<img src="./images/showpage.jpeg" width="150"/>
+<img src="./images/showpage.jpeg" width="200"/>
 
 Build a page UI which presents metadata for single and episodic programmes to the user in a modal context.  
 
@@ -60,14 +60,14 @@ Build a page UI which presents metadata for single and episodic programmes to th
 
 ### Login Page
 
-<img src="./images/login.jpeg" width="150" class="center"/>
+<img src="./images/login.jpeg" width="200" class="center"/>
 
 * Integration with the rango API with native UI (if possible)
 * Otherwise integrate using SkyID website using a WebView
 
 ### Play VOD 
 
-<img src="./images/player.jpeg" width="550"/>
+<img src="./images/player.jpeg" width="650"/>
 
 Build a video player which is capable of playing both unencrypted and encrypted Sky VOD assets using Native DRM. (FairPlay, Widevine)
 
@@ -79,7 +79,7 @@ Build a video player which is capable of playing both unencrypted and encrypted 
 
 ### Settings 
 
-<img src="./images/settings.jpeg" width="150"/>
+<img src="./images/settings.jpeg" width="200"/>
 
 Build a page that displays useful app information and settings to the user in a modal context. 
 
