@@ -9,26 +9,6 @@
 * Target architecure MVVM or MVP 
 * Build UI using latest APIs (Swift UI / Jetpack Compose)
 
-### iOS Links
-* Swift Docs: [link](https://www.swift.org/documentation/)
-* Swift Tour: [link](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-* Swift UI Intro [link](https://developer.apple.com/tutorials/swiftui)
-* Human Interface Guidelines: [link](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-
-### Android Links
-* Kotlin: [link](https://developer.android.com/kotlin)
-* Jetpack Compose: [link](https://developer.android.com/jetpack/compose/tutorial)
-* Android Design Guidelines: [link](https://developer.android.com/design)
-
-### GraphQL Links
-* Intro: [link](https://graphql.org/learn/)
-* Using GraphQL: [link](https://graphql.org/code/)
-* FAQ: [link](https://graphql.org/faq/)
-
-### Architecture
-* MVVM *(Model, View, View Model)*: [link](https://en.wikipedia.org/wiki/Model–view–viewmodel)
-* MVP *(Model, View, Presenter)*: [link](https://en.wikipedia.org/wiki/Model–view–presenter)
-
 ## Process 
 
 ### Topics to Cover 
@@ -110,3 +90,25 @@ Build a logging system that allows developers and analysts to debug problems as 
 
 ### CI 
 * Set-up a simple build and test pipeline in Jenkins 
+
+## Docs 
+
+### iOS Links
+* Swift Docs: [link](https://www.swift.org/documentation/)
+* Swift Tour: [link](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+* Swift UI Intro [link](https://developer.apple.com/tutorials/swiftui)
+* Human Interface Guidelines: [link](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
+### Android Links
+* Kotlin: [link](https://developer.android.com/kotlin)
+* Jetpack Compose: [link](https://developer.android.com/jetpack/compose/tutorial)
+* Android Design Guidelines: [link](https://developer.android.com/design)
+
+### GraphQL Links
+* Intro: [link](https://graphql.org/learn/)
+* Using GraphQL: [link](https://graphql.org/code/)
+* FAQ: [link](https://graphql.org/faq/)
+
+### Architecture
+* MVVM *(Model, View, View Model)*: [link](https://en.wikipedia.org/wiki/Model–view–viewmodel)
+* MVP *(Model, View, Presenter)*: [link](https://en.wikipedia.org/wiki/Model–view–presenter)
