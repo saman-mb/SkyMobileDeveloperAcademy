@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/52349/136939032-ae5ad45b-fbd0-4f8f-8631-50eba7c85743.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/52349/136939032-ae5ad45b-fbd0-4f8f-8631-50eba7c85743.png" alt="drawing" width="300"/>
 
 # Mobile Academy 
 ## Sky Go Training Project 
@@ -8,13 +8,11 @@
 * Share code via a GraphQL service 
 * Target architecure MVVM or MVP 
 * Build UI using latest APIs (Swift UI / Jetpack Compose)
+* 	
 
 ## Process 
 
-### Topics to Cover 
-* Agile & Scrum
-* Sprint Structure & Activities
-* Version control and branching process 
+The teams will work using an agile scrum model with 2 week sprints and the usual activities. 
 
 ### Sprint Structure
 
@@ -42,27 +40,27 @@
 ## Epics and Stories 
 ### Splash Screen / App Startup 
 
-<img src="./images/splash.jpeg" width="200"/>
+<img src="./images/splash.jpeg" width="300"/>
 
 Build an animated splash screen page which stays displayed until the app has finished carrying out the necessary startup processes before transitioning to the home page. 
 
-* Download the applications config file
+* Download the applications config file and cache it using local storage 
 * Handle application life cycle events 
 * Build a animated splash screen UI
 
 ### Home Page
 
-<img src="./images/home.jpeg" width="200"/>
+<img src="./images/home.jpeg" width="300"/>
 
 Build a home page UI that presents VOD content to users allowing them to browse content.
 
 * Integration with the QMS endpoint 
 * Build a loading spinner / in page error message UI
-* Build UI for home page (different rail and cell templates)
+* Build UI for home page content (different rail and cell templates)
 
 ### Show Page 
 
-<img src="./images/showpage.jpeg" width="200"/>
+<img src="./images/showpage.jpeg" width="300"/>
 
 Build a page UI which presents metadata for single and episodic programmes to the user in a modal context.  
 
@@ -72,7 +70,7 @@ Build a page UI which presents metadata for single and episodic programmes to th
 
 ### Login Page
 
-<img src="./images/login.jpeg" width="200" class="center"/>
+<img src="./images/login.jpeg" width="300" class="center"/>
 
 * Integration with the rango API with native UI (if possible)
 * Otherwise integrate using SkyID website using a WebView
@@ -87,21 +85,22 @@ Build a video player which is capable of playing both unencrypted and encrypted 
 * Initial version can use unencrypted test stream
 * Final version can use OVP integration and native DRM (FairPlay, iOS / WideVine, Android) 
 * Build the video player UI 
-* Local bookmarks bonus feature 
+* Local bookmarks  
 
 ### Settings 
 
-<img src="./images/settings.jpeg" width="200"/>
+<img src="./images/settings.jpeg" width="300"/>
 
 Build a page that displays useful app information and settings to the user in a modal context. 
 
 * Terms and conditions page 
 * Player settings 
 * Persisting users selections across app sessions using local storage 
+* Developer debug panel 
 
 ### Analytics 
 
-Build a logging system that allows developers and analysts to debug problems as extract useful information about how customers are using the app. 
+Build a logging system that allows developers and analysts to debug problems and extract useful information about how customers are using the app. 
 
 * Build generic modular logger (or use an off the shelf solution to keep things more simple)
 * Log levels 
