@@ -30,6 +30,8 @@
 ## Epics and Stories 
 ### Splash Screen / App Startup 
 
+<img src="./images/splash.jpeg" width="150"/>
+
 Build an animated splash screen page which stays displayed until the app has finished carrying out the necessary startup processes before transitioning to the home page. 
 
 * Download the applications config file
@@ -37,6 +39,8 @@ Build an animated splash screen page which stays displayed until the app has fin
 * Build a animated splash screen UI
 
 ### Home Page
+
+<img src="./images/home.jpeg" width="150"/>
 
 Build a home page UI that presents VOD content to users allowing them to browse content.
 
@@ -46,6 +50,8 @@ Build a home page UI that presents VOD content to users allowing them to browse 
 
 ### Show Page 
 
+<img src="./images/showpage.jpeg" width="150"/>
+
 Build a page UI which presents metadata for single and episodic programmes to the user in a modal context.  
 
 * Integrater with the Sky "Ways to Watch API" 
@@ -53,10 +59,16 @@ Build a page UI which presents metadata for single and episodic programmes to th
 * Build the single programme or epesodic content UI for the page
 
 ### Login Page
+
+<img src="./images/login.jpeg" width="150" class="center"/>
+
 * Integration with the rango API with native UI (if possible)
 * Otherwise integrate using SkyID website using a WebView
 
 ### Play VOD 
+
+<img src="./images/player.jpeg" width="550"/>
+
 Build a video player which is capable of playing both unencrypted and encrypted Sky VOD assets using Native DRM. (FairPlay, Widevine)
 
 * If user isn’t logged in show login 	
@@ -66,6 +78,8 @@ Build a video player which is capable of playing both unencrypted and encrypted 
 * Local bookmarks bonus feature 
 
 ### Settings 
+
+<img src="./images/settings.jpeg" width="150"/>
 
 Build a page that displays useful app information and settings to the user in a modal context. 
 
@@ -94,21 +108,21 @@ Build a logging system that allows developers and analysts to debug problems as 
 ## Docs 
 
 ### iOS Links
-* Swift Docs: [link](https://www.swift.org/documentation/)
-* Swift Tour: [link](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-* Swift UI Intro [link](https://developer.apple.com/tutorials/swiftui)
-* Human Interface Guidelines: [link](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+* Swift Docs: [https://www.swift.org/documentation/](https://www.swift.org/documentation/)
+* Swift Tour: [https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+* Swift UI Intro [https://developer.apple.com/tutorials/swiftui](https://developer.apple.com/tutorials/swiftui)
+* Human Interface Guidelines: [https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
 ### Android Links
-* Kotlin: [link](https://developer.android.com/kotlin)
-* Jetpack Compose: [link](https://developer.android.com/jetpack/compose/tutorial)
-* Android Design Guidelines: [link](https://developer.android.com/design)
+* Kotlin: [https://developer.android.com/kotlin](https://developer.android.com/kotlin)
+* Jetpack Compose: [https://developer.android.com/jetpack/compose/tutorial](https://developer.android.com/jetpack/compose/tutorial)
+* Android Design Guidelines: [https://developer.android.com/design](https://developer.android.com/design)
 
 ### GraphQL Links
-* Intro: [link](https://graphql.org/learn/)
-* Using GraphQL: [link](https://graphql.org/code/)
-* FAQ: [link](https://graphql.org/faq/)
+* Intro: [https://graphql.org/learn/](https://graphql.org/learn/)
+* Using GraphQL: [https://graphql.org/code/](https://graphql.org/code/)
+* FAQ: [https://graphql.org/faq/](https://graphql.org/faq/)
 
 ### Architecture
-* MVVM *(Model, View, View Model)*: [link](https://en.wikipedia.org/wiki/Model–view–viewmodel)
-* MVP *(Model, View, Presenter)*: [link](https://en.wikipedia.org/wiki/Model–view–presenter)
+* MVVM *(Model, View, View Model)*: [https://en.wikipedia.org/wiki/Model–view–viewmodel](https://en.wikipedia.org/wiki/Model–view–viewmodel)
+* MVP *(Model, View, Presenter)*: [https://en.wikipedia.org/wiki/Model–view–presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
