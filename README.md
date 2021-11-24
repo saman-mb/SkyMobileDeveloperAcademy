@@ -3,7 +3,7 @@
 # Mobile Academy 
 ## Sky Go Training Project 
 ### App Brief
-* Build an OTT VOD browsing and steaming app that uses native DRM protection. 
+* Build an OTT VOD browsing and streaming app that uses native DRM protection. 
 * Native Android and iOS applications
 * Share code via a GraphQL service 
 * Target architecure MVVM or MVP 
