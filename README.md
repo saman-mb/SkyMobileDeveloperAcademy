@@ -15,7 +15,7 @@ The teams will work using an agile scrum model with 2 week sprints and the usual
 
 ### Sprint Structure
 
-* Planning
+* Planning - [link](https://agile.at.sky/secure/RapidBoard.jspa?rapidView=22507&projectKey=QGOACAD&view=planning&issueLimit=100)
 * Daily Stand Ups 
 * Feature Development
 * Code Review
