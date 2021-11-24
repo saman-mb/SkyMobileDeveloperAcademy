@@ -8,7 +8,6 @@
 * Share code via a GraphQL service 
 * Target architecure MVVM or MVP 
 * Build UI using latest APIs (Swift UI / Jetpack Compose)
-* 	
 
 ## Process 
 
