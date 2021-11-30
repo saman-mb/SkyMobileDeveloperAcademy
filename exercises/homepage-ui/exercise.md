@@ -22,7 +22,7 @@ The entire page should be scrollable both vertically and horizontally within eac
 
 - _dont worry about making the sizes and spaces exact, only try to pick values which approximates the wireframes_
 
--  _you will notice that some of the properties in the json response are optional, try to think about how to handle the absence of the these values in your code_
+-  _you may notice that some of the properties in the json response are optional, try to think about how to handle the absence of the these values in your code_
 
 - _phones have less screen real estate than tablets so try to think how to build your UI so that we can maximise the space depending on which device were running on. How can we scale down the size of the cells for mobile without changing their aspect ratio?_ 
 
