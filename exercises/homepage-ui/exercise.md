@@ -11,7 +11,7 @@ The entire page should be scrollable both vertically and horizontally within eac
 
 ## Overview 
 
-1. Make an HTTP GET request to https://saman-mb.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/exercise.json
+1. Make an HTTP GET request to [https://saman-mb.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/exercise.json](https://saman-mb.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/exercise.json)
 
 2. Parse the data in the response to a Swift struct or Kotlin data class. 
 
