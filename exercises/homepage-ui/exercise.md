@@ -21,7 +21,7 @@ The entire page should be scrollable both vertically and horizontally within eac
 3. Use the parsed object representation of the json as the source of truth for rendering the homepage UI. 
 
 ### Hints: 
-- _The json file represents the data we want to present in the page and is also structured hierarchically in a that maps in a 1:1 relationship to the structure of the UI. _
+- _The json file represents the data we want to present in the page and is also structured hierarchically in that it has a 1:1 relationship to the structure of the UI. _
 
 - _dont worry about making the sizes and spaces exact, only try to pick values which approximates the wireframes_
 
