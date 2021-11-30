@@ -1,5 +1,8 @@
 # Homepage Rails UI Exercise
 
+<img src="./resources/home.png" width="300
+"/>
+
 ## Brief
 
 Implement a rails based home page UI for your elected mobile platform (Android or iOS) that scales correctly on both tablet and mobile devices. 
