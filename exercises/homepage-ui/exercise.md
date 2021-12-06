@@ -52,13 +52,13 @@ Upgrade the hero section at the top into an animated movies carousel with images
 
 4. Tapping the trailer button should play the trailer. 
 
-*__NOTE:__* /_There is now more than one item in the hero sections array and each item has some new properties to consider `image` and `trailer`._/ 
+*__NOTE:__* _There is now more than one item in the hero sections array and each item has some new properties to consider `image` and `trailer`._ 
 
-*__NOTE:__* /_The pagination indicator at the bottom right should highlight the relevant item index that’s presented to the user._/
+*__NOTE:__* _The pagination indicator at the bottom right should highlight the relevant item index that’s presented to the user._
 
-*__NOTE:__* /_The `title` property should be displayed over the image bottom left._/ 
+*__NOTE:__* _The `title` property should be displayed over the image bottom left._
 
-*__NOTE:__* /_Use the url provided by the `trailer` property in the json response.  iOS should use `AVPlayer` and Android should user `ExoPlayer`_/ 
+*__NOTE:__* _Use the url provided by the `trailer` property in the json response.  iOS should use `AVPlayer` and Android should user `ExoPlayer`_
 
 ### Doc Links
 
