@@ -37,3 +37,27 @@ The entire page should be scrollable both vertically and horizontally within eac
 <img src="./resources/phone.png" width="500"/>
 
 <img src="./resources/tablet.png" width="800"/>
+
+## Bonus Exercise 
+
+Upgrade the hero section at the top into an animated movies carousel with images that allows user to play a trailer! 
+
+<img src="./resources/venom.png" width="800"/>
+
+1. Point your exercise app to the new version of the json file named [https://saman-.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/homepage-ui.json](_https://saman-mb.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/homepage-ui.json_)
+
+2. You will notice there are some new properties in the hero section. Modify your parsing code in order to account for these new values in the json. 
+
+*__NOTE:__* /_There is now more than one item in the hero sections array and each item has some new properties to consider `image` and `trailer`._/ 
+
+3. Update the UI for the hero rail to a paginated carousel style. When left idol the section should should cycle through the items in the same order defined in the array animating from right to left. When the user swipes left or right section should flick to the item on the left or the right. 
+
+*__NOTE:__* /_The pagination indicator at the bottom right should highlight the relevant item index that’s presented to the user._/
+
+*__NOTE:__* /_The `title` property should be displayed over the image bottom left._/ 
+
+4. Tapping the trailer button should play the trailer. 
+
+*__NOTE:__* /_Use the url provided by the `trailer` property in the json response.  iOS should use `AVPlayer` and Android should user `ExoPlayer`_/ 
+
+### Doc Links
