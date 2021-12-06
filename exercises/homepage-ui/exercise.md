@@ -50,7 +50,7 @@ Upgrade the hero section at the top into an animated movies carousel with images
 
 3. Update the UI for the hero rail to a paginated carousel style. When left idol the section should should cycle through the items in the same order defined in the array animating from right to left. When the user swipes left or right section should flick to the item on the left or the right. 
 
-4. Tapping the trailer button should play the trailer. 
+4. Tapping the trailer button should play the trailer. You will notice the end of the url is parameterised like so `{res}`. You will need to substitute this string for a valid resolition: `720, 1080` to create a valid playout url. Mobile devices should play in 720p and tables in 1080p.
 
 *__NOTE:__* _There is now more than one item in the hero sections array and each item has some new properties to consider `image` and `trailer`._ 
 
