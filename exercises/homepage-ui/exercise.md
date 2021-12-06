@@ -44,7 +44,7 @@ Upgrade the hero section at the top into an animated movies carousel with images
 
 <img src="./resources/venom.png" width="800"/>
 
-1. Point your exercise app to the new version of the json file named [https://saman-.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/homepage-ui.json](_https://saman-mb.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/homepage-ui.json_)
+1. Point your exercise app to the new version of the json file named [https://saman-.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/homepage-ui-v2.json](https://saman-mb.github.io/SkyMobileDeveloperAcademy/exercises/homepage-ui/resources/homepage-ui-v2.json)
 
 2. You will notice there are some new properties in the hero section. Modify your parsing code in order to account for these new values in the json. 
 
