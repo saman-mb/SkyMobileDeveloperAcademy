@@ -1,0 +1,156 @@
+{
+    "colour" : "616161",
+    "sections" : [
+        {
+            "title" : null,
+            "type" : "hero",
+            "tiles" : [
+                {
+                    "title" : "Venom",
+                    "image" : "https://cdn.mos.cms.futurecdn.net/xZGcAQgcCUB3aum2EvwG7V.jpg",
+                    "trailer" : "http://movietrailers.apple.com/movies/sony_pictures/venom/venom-trailer-3_h{res}p.mov" 
+                },
+                {
+                    "title" : "No Time to Die",
+                    "image" : "https://static3.srcdn.com/wordpress/wp-content/uploads/2020/01/No-Time-to-Die-characters.jpg",
+                    "trailer" : "https://movietrailers.apple.com/movies/mgm/no-time-to-die/no-time-to-die-final-trailer_h{res}p.mov" 
+                },
+                {
+                    "title" : "Free Guy",
+                    "image" : "https://cdn.mos.cms.futurecdn.net/fM7oKQDCKpgMuobZpFwRgK.jpg",
+                    "trailer" : "https://movietrailers.apple.com/movies/fox/free-guy/free-guy-trailer-2_h{res}p.mov" 
+                },
+                {
+                    "title" : "Shang-Chi and The Legend of The Ten Rings",
+                    "image" : "https://www.cnet.com/a/img/fj5EmLqbT1tLolUxcJiiigeKOGs=/940x0/2021/08/17/1eb39e3e-f82c-4e80-9a30-273f86160139/shang-chi-poster-social.jpg",
+                    "trailer" : "https://movietrailers.apple.com/movies/marvel/shang-chi-and-the-legend-of-the-ten-rings/shang-chi-trailer-2_h{res}p.mov" 
+                }
+            ]
+        },
+        {
+            "title" : "Cover Section",
+            "type" : "cover",
+            "tiles" : [
+                {
+                    "colour" : "00FFE4"
+                }, 
+                {
+                    "colour" : "00FFE4"
+                },
+                {
+                    "colour" : "00FFE4"
+                },
+                {
+                    "colour" : "008FFF"
+                },
+                {
+                    "colour" : "008FFF"
+                },
+                {
+                    "colour" : "008FFF"
+                },
+                {
+                    "colour" : "00FFE4"
+                },
+                {
+                    "colour" : "00FFE4"
+                },
+                {
+                    "colour" : "00FFE4"
+                },
+                {
+                    "colour" : "00FFE4"
+                }
+            ]
+        },
+        {
+            "title" : "Wide Section",
+            "type" : "wide",
+            "tiles" : [
+                {
+                    "title" : "1",
+                    "colour" : "E7D148"
+                }, 
+                {
+                    "title" : "2",
+                    "colour" : "E7D148"
+                },
+                {
+                    "title" : "3",
+                    "colour" : "E7D148"
+                },
+                {
+                    "colour" : "E7B748"
+                },
+                {
+                    "title" : "5",
+                    "colour" : "E7B748"
+                },
+                {
+                    "title" : "6",
+                    "colour" : "E7B748"
+                },
+                {
+                    "title" : "7",
+                    "colour" : "E7D148"
+                },
+                {
+                    "title" : "8",
+                    "colour" : "E7D148"
+                },
+                {
+                    "title" : "9",
+                    "colour" : "E7D148"
+                },
+                {
+                    "title" : "10",
+                    "colour" : "E7D148"
+                }
+            ]
+        },
+        {
+            "title" : "Square Section",
+            "type" : "square",
+            "tiles" : [
+                {
+                    "title" : "1",
+                    "colour" : "FF74D9"
+                }, 
+                {
+                    "title" : "2",
+                    "colour" : "FF74D9"
+                },
+                {
+                    "colour" : "FF74D9"
+                },
+                {
+                    "title" : "4",
+                    "colour" : "F46E9E"
+                },
+                {
+                    "title" : "5",
+                    "colour" : "F46E9E"
+                },
+                {
+                    "colour" : "F46E9E"
+                },
+                {
+                    "title" : "7",
+                    "colour" : "FF74D9"
+                },
+                {
+                    "title" : "8",
+                    "colour" : "FF74D9"
+                },
+                {
+                    "title" : "9",
+                    "colour" : "FF74D9"
+                },
+                {
+                    "title" : "10",
+                    "colour" : "FF74D9"
+                }
+            ]
+        }
+    ]
+}
