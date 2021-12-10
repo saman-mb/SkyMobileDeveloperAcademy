@@ -11,7 +11,7 @@ I have created a swift playground to outline the basic structure of making the h
 ### iOS App
 
 1. refactor your code to follow the MVVM architecture
-2. use the `XCTest` framework to unit test your model and presenter
+2. use the `XCTest` framework to unit test your model and view model
 3. implement your own mock objects by using protocols
 
 
