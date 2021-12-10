@@ -16,8 +16,8 @@ I have created a swift playground to outline the basic structure of making the h
 
 
 #### Docs
-https://www.hackingwithswift.com/read/39/2/creating-our-first-unit-test-using-xctest
-https://www.swiftbysundell.com/articles/mocking-in-swift/
+- https://www.hackingwithswift.com/read/39/2/creating-our-first-unit-test-using-xctest
+- https://www.swiftbysundell.com/articles/mocking-in-swift/
 
 ### Android App
 
@@ -26,6 +26,6 @@ https://www.swiftbysundell.com/articles/mocking-in-swift/
 3. use a mocking framework like `Mokito` to mock 
 
 #### Docs
-https://kotlinlang.org/docs/jvm-test-using-junit.html
-https://developer.android.com/training/testing/unit-testing/local-unit-tests
-https://site.mockito.org
+- https://kotlinlang.org/docs/jvm-test-using-junit.html
+- https://developer.android.com/training/testing/unit-testing/local-unit-tests
+- https://site.mockito.org
