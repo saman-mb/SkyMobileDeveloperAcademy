@@ -1,7 +1,5 @@
 # Homepage Rails UI - Unit Tests Exercise
 
-<img src=“./resources/home.png” width=“300”/>
-
 ## Brief
 
 So you have now built a rails UI by integrating with a back end service, parsing the response, mapping the response to a domain model type and then using that model to configure the view. 
