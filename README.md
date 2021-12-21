@@ -2,7 +2,7 @@
 
 # Mobile Academy Training Project
 
-An educational project focusing on the development of a Sky cpontent browsing and streaming app for Android and iOS. 
+An educational project focusing on the development of a Sky content browsing and streaming app for the Android & iOS mobile platforms. 
 
 ## Overview 
 
