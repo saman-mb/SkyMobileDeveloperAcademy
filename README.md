@@ -11,8 +11,8 @@ An educational project focusing on the development of a Sky content browsing and
 
 ## Onboarding Exercises
 
-* [__Home Railt UI__](/exercises/homepage-ui/exercise.md)
-* [__Home Railt UI - MVVM & Unit Tests__](/exercises/homepage-ui/unit-test-exercise.md)
+* [__Home Rails UI__](/exercises/homepage-ui/exercise.md)
+* [__Home Rails UI - MVVM & Unit Tests__](/exercises/homepage-ui/unit-test-exercise.md)
 
 ## Docs 
 
