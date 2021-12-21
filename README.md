@@ -32,8 +32,10 @@ An educational project focusing on the development of a Sky cpontent browsing an
 * Using GraphQL: [https://graphql.org/code/](https://graphql.org/code/)
 * FAQ: [https://graphql.org/faq/](https://graphql.org/faq/)
 
+### Players
+* iOS: [https://developer.apple.com/documentation/avfoundation/avplayer](https://developer.apple.com/documentation/avfoundation/avplayer)
+* Android: [https://developer.android.com/guide/topics/media/exoplayer](https://developer.android.com/guide/topics/media/exoplayer)
+
 ### Architecture
 * MVVM *(Model, View, View Model)*: [https://en.wikipedia.org/wiki/Model–view–viewmodel](https://en.wikipedia.org/wiki/Model–view–viewmodel)
 * MVP *(Model, View, Presenter)*: [https://en.wikipedia.org/wiki/Model–view–presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
-
-
