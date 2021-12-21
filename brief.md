@@ -4,7 +4,7 @@
 * Build an OTT VOD browsing and streaming app that uses native DRM protection. 
 * Native Android and iOS applications
 * Share code via a GraphQL service 
-* Target architecure MVVM or MVP 
+* Target architecture MVVM or MVP 
 * Build UI using latest APIs (Swift UI / Jetpack Compose)
 
 ## Process 
@@ -19,7 +19,7 @@ The teams will work using an agile scrum model with 2 week sprints and the usual
 * Code Review
 * QA
 * Merge Feature Code
-* Sprint Review Presenation
+* Sprint Review Presentation
 * Retrospective
 
 ### Project Setup & CI
@@ -61,15 +61,15 @@ Build a home page UI that presents VOD content to users allowing them to browse 
 
 Build a page UI which presents metadata for single and episodic programmes to the user in a modal context.  
 
-* Integrater with the Sky "Ways to Watch API" 
+* Integrate with the Sky "Ways to Watch API" 
 * Present the show page with loading spinner or in page error if the API call fails
-* Build the single programme or epesodic content UI for the page
+* Build the single programme or episodic content UI for the page
 
 ### Login Page
 
 <img src="./images/login.jpeg" width="300" class="center"/>
 
-* Integration with the rango API with native UI (if possible)
+* Integration with the Rango API with native UI (if possible)
 * Otherwise integrate using SkyID website using a WebView
 
 ### Play VOD 
@@ -104,25 +104,3 @@ Build a logging system that allows developers and analysts to debug problems and
 * Device log 
 * Third parties: Firebase, Sentry, Adobe (needs some discussion as we want to keep things simple)
 * Crash reporting 
-
-## Docs 
-
-### iOS Links
-* Swift Docs: [https://www.swift.org/documentation/](https://www.swift.org/documentation/)
-* Swift Tour: [https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
-* Swift UI Intro [https://developer.apple.com/tutorials/swiftui](https://developer.apple.com/tutorials/swiftui)
-* Human Interface Guidelines: [https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-
-### Android Links
-* Kotlin: [https://developer.android.com/kotlin](https://developer.android.com/kotlin)
-* Jetpack Compose: [https://developer.android.com/jetpack/compose/tutorial](https://developer.android.com/jetpack/compose/tutorial)
-* Android Design Guidelines: [https://developer.android.com/design](https://developer.android.com/design)
-
-### GraphQL Links
-* Intro: [https://graphql.org/learn/](https://graphql.org/learn/)
-* Using GraphQL: [https://graphql.org/code/](https://graphql.org/code/)
-* FAQ: [https://graphql.org/faq/](https://graphql.org/faq/)
-
-### Architecture
-* MVVM *(Model, View, View Model)*: [https://en.wikipedia.org/wiki/Model–view–viewmodel](https://en.wikipedia.org/wiki/Model–view–viewmodel)
-* MVP *(Model, View, Presenter)*: [https://en.wikipedia.org/wiki/Model–view–presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
