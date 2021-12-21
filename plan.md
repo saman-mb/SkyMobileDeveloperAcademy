@@ -1,24 +1,26 @@
-# Project Phases
+# General High Level Project Plan
 
-## Easier Challenges
+## Overview of Challenges
+
+### Easier Challenges
 - splash screen 
 - homepage 
 - settings
-- unencrypted video playback 
+- un-encrypted video playback 
 
-## Intermediate Challanges
+### Intermediate Challanges
 - showpage
 - unit testing 
 - GraphQL 
 - Logging + Analytics 
 
-## Harder Challenges 
+### Harder Challenges 
 - CI / CD Jenkins - requires some devops support
 - UI testing (XCUITest / Espresso)
 - Playing encrypted content - OVP / DRM needed for this, we will need to discuss 
 - Play encrypted content using Fairplay or Widevine DRM
 
-## Overview 
+## Project Phases
 
 ### Phase 1 
 
